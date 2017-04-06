@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Notice from Blue Coat</title>
+<script>
+function Accept() {
+}
+</script>
+</head>
+<HTML>
+<HEAD>
+<TITLE>Content Filter - Access Denied</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#FFFFFF" LINK="#0000FF" VLINK="#FF0000">
+<center>
+<table border="4" bgcolor="#0000D0" width="50%" cellpadding="6">
+<tr>
+<td nowrap align="center" bgcolor="#800000">
+<font size="6" color="#FF0000">Lincare Holdings Inc</font></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" nowrap>
+ 
+<h1 align="center">
+<font color="#FF0000">
+Access Denied</font></h1>
+<p align="center">
+<font color="#000000">
+You currently do not have access to this website.
+<br>
+
+Please click <a href="mailto:?subject=Website Request&body=Website URL: http://qlip.in/images/webmarqas.jpg %0A%0ABusiness Reason: ">here</a> to forward the request to your Regional or Divisional Manager.')
+
+</font><font color="#000000">
+<p align="center">
+<br>
+<br>
+</p>
+</font>
+</td>
+</tr>
+</table>
+</center>
+</BODY>
+</HTML>
+</html>
+	

@@ -1,0 +1,83 @@
+*{
+	margin: 4px;
+	padding: 4px;
+	
+}
+
+body{
+    background-color: darkslategray;
+}
+
+p{
+    color: azure;
+    padding: 10px;
+    margin: 10px;
+}
+
+h1{
+    color: black;
+}
+
+#portfolio{
+    color: gainsboro;
+}
+
+#nav{
+    border-style: inset;
+    border:0px solid #c2dbe8;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px  #c2dbe8;
+    color: black;
+    text-align: right;
+    padding: 20px;
+    margin: 20px;
+}
+
+#About{
+    border-style: inset;
+    border:0px solid #c2dbe8;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px  #c2dbe8;
+    color: azure;
+    padding: 20px;
+    margin: 20px;
+}
+
+#Portfolio{
+    border-style: inset;
+    border:0px solid #c2dbe8;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px  #c2dbe8;
+    color: azure;
+    padding: 20px;
+    margin: 20px;
+}
+
+#Contact{
+    border-style: inset;
+    border:0px solid #c2dbe8;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px  #c2dbe8;
+    color: azure;
+    padding: 20px;
+    margin: 20px;
+}
+
+a{
+    color: azure;
+}
+
+#title{
+    color: azure;
+    text-align: left;
+    margin: 50px;
+    border-style: inset;
+    border:0px solid #c2dbe8;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px  #c2dbe8;
+    display: inline-block;
+}
+
+#submit{
+    color: slategrey;
+}
